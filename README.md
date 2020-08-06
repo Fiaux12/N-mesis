@@ -33,5 +33,5 @@ arestas. Para resolver o problema foi implementado o algoritmo de Dijsktra para 
 caminho de menor custo, cuja soma dos valores das arestas que precisamos passar por para
 chegar ao fim seja o menor possível, entre início e fim do labirinto feito com o grafo.
 
-##Como Compilar:
+## Como Compilar:
 É preciso ter um complidaro de C e digitar o comando gcc makefile
