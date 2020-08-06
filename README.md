@@ -32,4 +32,4 @@ caminho de menor custo, cuja soma dos valores das arestas que precisamos passar 
 chegar ao fim seja o menor possível, entre início e fim do labirinto feito com o grafo.
 
 ## Como Compilar:
-É preciso ter um complidaro de C e digitar o comando gcc makefile
+É preciso ter um compilador de C e digitar o comando gcc makefile
