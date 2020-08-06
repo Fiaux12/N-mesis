@@ -1,4 +1,4 @@
-# N-mesis
+# Nêmesis
 “Nêmesis, a deusa da vingança, irou-se contra Euterpe, a musa dos prazeres, e a pôs
 num labirinto infestado de bestas. Agora, apenas Hércules poderá salvar Euterpe. Iniciando sua
 jornada em alguma posição do labirinto, Hércules só pode avançar para uma posição do
